@@ -1,3 +1,3 @@
 # Buscador de CEP com React
 
-Consumindo uma API e com design totalmente responsivo.
+Consumindo uma API de CEP e com design totalmente responsivo.
