@@ -16,7 +16,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para poder usar a calculadora basta clicar no seguinte link: https://wallissonmart.github.io/calculadora-js/
+Para poder usar a calculadora basta clicar no seguinte link: https://wallissonmart.github.io/buscador-de-cep-react/
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
