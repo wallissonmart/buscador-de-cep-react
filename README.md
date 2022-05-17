@@ -1,5 +1,5 @@
 <h1 align="left">Buscador de CEP</h1>
-<p align="left">Aplicação para pesquisar e retornar as informações do CEP inserido.</p>
+<p align="left">Aplicação para pesquisar e retornar as informações do CEP inserido</p>
 
 <p align="left"> •
  <a href="#status">Status</a> •
